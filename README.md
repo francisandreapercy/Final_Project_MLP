@@ -1,4 +1,4 @@
-# Read Me
+# Transformers for Image Recognition at Scale Project
 ### Prerequistes
 * Tensorflow 2.1.1
 * CUDA-enabled NVIDIA GPU
